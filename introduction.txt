@@ -1,6 +1,9 @@
 자기소개를 작성해주세요
 
-학번:2024100468
-이름:윤준희
-지원 트랙:desing
-취미:일러스트 그리기
+feat:2024100468
+feat:윤준희
+feat 트랙:desing
+feat:일러스트 그리기
+
+git add
+git push origin main
