@@ -4,6 +4,3 @@ feat:2024100468
 feat:윤준희
 feat 트랙:desing
 feat:일러스트 그리기
-
-git add
-git push origin main
