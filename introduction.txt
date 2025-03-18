@@ -1,6 +1,9 @@
 자기소개를 작성해주세요
 
-이름:
-학번:
-트랙:
-취미:
+git commit
+
+feat: 윤준희
+feat: 2024100468
+feat: desing
+feat: 일러스트
+
